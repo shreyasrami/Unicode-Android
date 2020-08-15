@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unicode-Android</string>
+    <string name="noInternet">Oops! No Internet Connection</string>
+    <string name="notFound">City Not Found</string>
+</resources>
